@@ -135,3 +135,5 @@ sudo docker rm $(sudo docker ps -a -q)
 sudo docker rmi $(sudo docker images -q)
 Rm -rf nulink
 ```
+
+### My telegram channel @DikciCrypto
